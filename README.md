@@ -13,7 +13,7 @@ My favorite VisualStudio extensions!
 * [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides) - Assign different styles and colors to the guide lines for different indentation levels.
 * [BlackSpace](https://github.com/korypostma/BlackSpace) - Highlights ugly end-of-line whitespaces.
 * [ClaudiaIDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) - Add your favorite waifu (or whatever) as a background image for the editor.
-* [WhereAmI](https://marketplace.visualstudio.com/items?itemName=ErosFratini.WhereAmI2017) - Subtly displays the current solution and project names and relative file path in the editor background. Unfortunately only exists for 2015 and 2017 at the moment.
+* [WhereAmI](https://marketplace.visualstudio.com/items?itemName=ErosFratini.WhereAmI2017) - Subtly displays the current solution and project names and relative file path in the editor background.
 * [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons) - Adds/changes the VS-displayed icons for usual filetypes so that they don't suck ass.
 * [VSYASM](https://github.com/ShiftMediaProject/VSYASM) - Direct [YASM](http://yasm.tortall.net/) assembler support inside VS projects.
 * [AsmDude](https://github.com/HJLebbink/asm-dude) - Adds X86/64 assembly syntax highlighting and some formatting options.
